@@ -3,7 +3,7 @@
 **Reddit Persona Analyzer** is a full-stack web application that generates a psychological profile of any Reddit user by analyzing their public posts and comments. It uses language patterns, subreddit behavior, and prompt-driven reasoning to infer MBTI-style personality traits, behaviors, goals, and frustrations with the help of Large Language Models (LLMs).
 
 <div align="center">
-  <img src="./images/logo.png" alt="Reddit Persona UI" width="700"/>
+  <img src="./images/logo.png" alt="Reddit Persona UI" width="400"/>
   <p><em>Enter a Reddit profile URL to analyze</em></p>
 </div>
 
