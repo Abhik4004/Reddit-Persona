@@ -1,11 +1,9 @@
----
-
 # 🧠 reddit-persona
 
 **Reddit Persona Analyzer** is a full-stack web application that generates a psychological profile of any Reddit user by analyzing their public posts and comments. It uses language patterns, subreddit behavior, and prompt-driven reasoning to infer MBTI-style personality traits, behaviors, goals, and frustrations with the help of Large Language Models (LLMs).
 
 <div align="center">
-  <img src="./images/main-ui.png" alt="Reddit Persona UI" width="700"/>
+  <img src="./images/logo.png" alt="Reddit Persona UI" width="700"/>
   <p><em>Enter a Reddit profile URL to analyze</em></p>
 </div>
 
@@ -13,11 +11,11 @@
 
 ## 🚀 Features
 
-* 🔍 Analyze any Reddit user's public activity
-* 🧬 Auto-generates MBTI-style personality metrics
-* 📊 Presents traits, behaviors, goals, and frustrations
-* 🧠 Powered by LLMs (OpenAI/Gemini/Claude-compatible)
-* ⚡ Fast, responsive UI with backend integration
+- 🔍 Analyze any Reddit user's public activity
+- 🧬 Auto-generates MBTI-style personality metrics
+- 📊 Presents traits, behaviors, goals, and frustrations
+- 🧠 Powered by LLMs (OpenAI/Gemini/Claude-compatible)
+- ⚡ Fast, responsive UI with backend integration
 
 ---
 
@@ -57,9 +55,9 @@ reddit-persona/
 
 ### ✅ Prerequisites
 
-* Node.js (v18 or newer)
-* npm or yarn
-* (Optional) OpenAI / Gemini / Claude API key(s)
+- Node.js (v18 or newer)
+- npm or yarn
+- (Optional) OpenAI / Gemini / Claude API key(s)
 
 ---
 
@@ -144,8 +142,8 @@ npm run dev
 
 ## 💡 Example URLs to Try
 
-* `https://www.reddit.com/user/kojied/`
-* `https://www.reddit.com/user/Hungry-Move-6603/`
+- `https://www.reddit.com/user/kojied/`
+- `https://www.reddit.com/user/Hungry-Move-6603/`
 
 ---
 
